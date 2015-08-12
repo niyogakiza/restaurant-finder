@@ -13,8 +13,7 @@ var SearchCriteriaViewModel = function() {
     { id: 'sushi', desc: 'Sushi bars' },
     { id: 'thai', desc: 'Thai' },
     { id: 'vegan', desc: 'Vegan' },
-    { id: 'vegetarian', desc: 'Vegetarian' },
-    { id: 'blablabla', desc: '*** Crash Yelp!' }  // For testing purposes only...
+    { id: 'vegetarian', desc: 'Vegetarian' }
   ]);
 
   /* Arbitrary list of distances that I consider to be "near" enough. Some are near enough

@@ -110,10 +110,10 @@ var YelpEngine = (function() {
 
       // OAuth credentials for Yelp Search API.
       var auth = {
-        consumerKey: "[YOUR_OAUTH_CONSUMER_KEY]",
-        consumerSecret: "[YOUR_OAUTH_CONSUMER_SECRET]",
-        accessToken: "[YOUR_OAUTH_ACCESS_TOKEN]",
-        accessTokenSecret: "[YOUR_OAUTH_ACCESS_TOKEN_SECRET]",
+        consumerKey: "pGRJPUh4pSYrtqWWjaNBfA",
+        consumerSecret: "k1EF7iriGPfwAIhd0SsPU68i9HU",
+        accessToken: "zX-8hcFDEaVIeEMoiaACffh8rz2dM5qt",
+        accessTokenSecret: "BsgN0xz_hsRixklnE0C_JXFFpwk",
         serviceProvider: {
           signatureMethod: "HMAC-SHA1"
         }
